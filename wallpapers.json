@@ -49,18 +49,19 @@
 			"dimensions": "2984 x 1920",
 			"copyright": "Copyright ArchieLiu. All rights reserved."
 		},
-		{
-			"name": "Diamond Rose",
-			"author": "anonymity",
-			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/Diamond_Rose.png",
-			"dimensions": "3200 x 2560",
-			"copyright": ""
-		},
+
 		{
 			"name": "i",
 			"author": "Meizu",
 			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/i.png",
 			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Diamond Rose",
+			"author": "anonymity",
+			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/Diamond_Rose.png",
+			"dimensions": "3200 x 2560",
 			"copyright": ""
 		},
 		{
