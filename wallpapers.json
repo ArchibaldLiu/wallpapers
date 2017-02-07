@@ -22,13 +22,6 @@
 			"copyright": "Copyright ArchieLiu. All rights reserved."
 		},
 		{
-			"name": "wallpaper_green",
-			"author": "ArchieLiu",
-			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/wallpaper_green.jpg",
-			"dimensions": "2984 x 1920",
-			"copyright": "Copyright ArchieLiu. All rights reserved."
-		},
-		{
 			"name": "wallpaper_purple",
 			"author": "ArchieLiu",
 			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/wallpaper_purple.jpg",
@@ -42,13 +35,7 @@
 			"dimensions": "2984 x 1920",
 			"copyright": "Copyright ArchieLiu. All rights reserved."
 		},
-		{
-			"name": "wallpaper_yellow",
-			"author": "ArchieLiu",
-			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/wallpaper_yellow.jpg",
-			"dimensions": "2984 x 1920",
-			"copyright": "Copyright ArchieLiu. All rights reserved."
-		},
+
 
 		{
 			"name": "i",
@@ -64,13 +51,7 @@
 			"dimensions": "3200 x 2560",
 			"copyright": ""
 		},
-		{
-			"name": "Purple Nerves",
-			"author": "anonymity",
-			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/Purple_Nerves.png",
-			"dimensions": "3200 x 2560",
-			"copyright": ""
-		},
+
 		{
 			"name": "Real Teal",
 			"author": "anonymity",
@@ -105,6 +86,36 @@
 			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/Stock_Pixel.png",
 			"dimensions": "2154 x 2560",
 			"copyright": ""
+		},
+		{
+			"name": "Once in a Blue",
+			"author": "Samer Zayer",
+			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/Once_in_a Blue.png",
+			"dimensions": "2154 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "Guidelines",
+			"author": "Samer Zayer",
+			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/Guidelines.png",
+			"dimensions": "2154 x 2560",
+			"copyright": ""
 		}
+		,
+		{
+			"name": "Neural Network",
+			"author": "Samer Zayer",
+			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/Neural_Network.png",
+			"dimensions": "2154 x 2560",
+			"copyright": ""
+
+		},		
+		{
+			"name": "Purple Nerves",
+			"author": "anonymity",
+			"url": "https://github.com/ArchibaldLiu/wallpapers/raw/master/Purple_Nerves.png",
+			"dimensions": "3200 x 2560",
+			"copyright": ""
+		},
 	]
 }
